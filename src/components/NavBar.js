@@ -42,6 +42,7 @@ export default function Navbar() {
             url="https://www.linkedin.com/in/theophilebonifaceachille/"
             className="mr-4"
             target="_blank"
+            rel="noopener noreferrer"
             fgColor="#fff"
             style={{ height: 35, width: 35 }}
           />
@@ -49,6 +50,7 @@ export default function Navbar() {
             url="https://github.com/TheophileBonifaceAchille"
             className="mr-4"
             target="_blank"
+            rel="noopener noreferrer"
             fgColor="#fff"
             style={{ height: 35, width: 35 }}
           />
