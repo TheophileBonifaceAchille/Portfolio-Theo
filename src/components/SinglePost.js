@@ -21,7 +21,7 @@ export default function SinglePost() {
       title,
       _id,
       slug,
-      mainimage{
+      mainImage{
         asset->{
           _id,
           url
